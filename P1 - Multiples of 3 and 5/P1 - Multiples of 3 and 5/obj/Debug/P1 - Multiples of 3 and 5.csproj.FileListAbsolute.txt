@@ -1,0 +1,7 @@
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\bin\Debug\P1 - Multiples of 3 and 5.exe.config
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\bin\Debug\P1 - Multiples of 3 and 5.exe
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\bin\Debug\P1 - Multiples of 3 and 5.pdb
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\obj\Debug\P1 - Multiples of 3 and 5.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\obj\Debug\P1 - Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\obj\Debug\P1 - Multiples of 3 and 5.exe
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P1 - Multiples of 3 and 5\P1 - Multiples of 3 and 5\obj\Debug\P1 - Multiples of 3 and 5.pdb
