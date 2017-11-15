@@ -1,0 +1,7 @@
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\bin\Debug\P2 - Even Fibonacci numbers.exe.config
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\bin\Debug\P2 - Even Fibonacci numbers.exe
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\bin\Debug\P2 - Even Fibonacci numbers.pdb
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\obj\Debug\P2 - Even Fibonacci numbers.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\obj\Debug\P2 - Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\obj\Debug\P2 - Even Fibonacci numbers.exe
+C:\Users\Roman\Desktop\GitHub\List 8 Euler Problems\P2 - Even Fibonacci numbers\P2 - Even Fibonacci numbers\obj\Debug\P2 - Even Fibonacci numbers.pdb
