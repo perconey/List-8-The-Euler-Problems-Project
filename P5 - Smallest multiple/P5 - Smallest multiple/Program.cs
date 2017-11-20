@@ -12,7 +12,7 @@ namespace P5___Smallest_multiple
         static bool isSmallestMultiple(long number)
         {
             string strint = number.ToString();
-            int i,sum = 0, nmod, thirmod, sevmod;
+            int i, sum, nmod, thirmod;
             int powerOf3, oddSum, evenSum;
             long loops, numOnTheBack, numOnTheStart, check16, powerOf10;
             double div;
