@@ -1,0 +1,4 @@
+Please notice that Problem 5 was not made to return result
+in the lowest possible time by using logs and mathematic formulas!
+My main goal was to program division statements based on 
+integer to string converted object. You can find formulas that you can use in further projects ;)
